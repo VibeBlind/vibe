@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.ca2744ae.js",
-    "static/js/787.fea11ae5.chunk.js": "/react-gh-pages/static/js/787.fea11ae5.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.ca2744ae.js.map": "/react-gh-pages/static/js/main.ca2744ae.js.map",
-    "787.fea11ae5.chunk.js.map": "/react-gh-pages/static/js/787.fea11ae5.chunk.js.map"
+    "main.css": "/vibe-app/static/css/main.073c9b0a.css",
+    "main.js": "/vibe-app/static/js/main.d8b514f0.js",
+    "static/js/787.fea11ae5.chunk.js": "/vibe-app/static/js/787.fea11ae5.chunk.js",
+    "static/media/logo.svg": "/vibe-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vibe-app/index.html",
+    "main.073c9b0a.css.map": "/vibe-app/static/css/main.073c9b0a.css.map",
+    "main.d8b514f0.js.map": "/vibe-app/static/js/main.d8b514f0.js.map",
+    "787.fea11ae5.chunk.js.map": "/vibe-app/static/js/787.fea11ae5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ca2744ae.js"
+    "static/js/main.d8b514f0.js"
   ]
 }
