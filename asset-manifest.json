@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vibe-app/static/css/main.028084f5.css",
-    "main.js": "/vibe-app/static/js/main.fa86c704.js",
+    "main.js": "/vibe-app/static/js/main.2c7b8e44.js",
     "index.html": "/vibe-app/index.html",
     "main.028084f5.css.map": "/vibe-app/static/css/main.028084f5.css.map",
-    "main.fa86c704.js.map": "/vibe-app/static/js/main.fa86c704.js.map"
+    "main.2c7b8e44.js.map": "/vibe-app/static/js/main.2c7b8e44.js.map"
   },
   "entrypoints": [
     "static/css/main.028084f5.css",
-    "static/js/main.fa86c704.js"
+    "static/js/main.2c7b8e44.js"
   ]
 }
