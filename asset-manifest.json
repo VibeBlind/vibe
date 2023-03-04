@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vibe-app/static/css/main.028084f5.css",
-    "main.js": "/vibe-app/static/js/main.2c7b8e44.js",
-    "index.html": "/vibe-app/index.html",
-    "main.028084f5.css.map": "/vibe-app/static/css/main.028084f5.css.map",
-    "main.2c7b8e44.js.map": "/vibe-app/static/js/main.2c7b8e44.js.map"
+    "main.css": "/ghost-in-the-machine/static/css/main.dec64bde.css",
+    "main.js": "/ghost-in-the-machine/static/js/main.bc02e5fa.js",
+    "index.html": "/ghost-in-the-machine/index.html",
+    "main.dec64bde.css.map": "/ghost-in-the-machine/static/css/main.dec64bde.css.map",
+    "main.bc02e5fa.js.map": "/ghost-in-the-machine/static/js/main.bc02e5fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.028084f5.css",
-    "static/js/main.2c7b8e44.js"
+    "static/css/main.dec64bde.css",
+    "static/js/main.bc02e5fa.js"
   ]
 }
